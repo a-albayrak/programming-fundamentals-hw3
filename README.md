@@ -4,11 +4,6 @@
 
 This project implements a **Library Management System** using **Java**, where users can borrow books and magazines, and the system manages borrowing fees, late charges, discounts, and more. The project makes use of **Abstract Data Types (ADTs)**, **interfaces**, **abstract classes**, **inheritance**, and **polymorphism**.
 
-## Project Structure
-
-- **Abstract Classes and Interfaces**: These are used to manage different borrowable items like books and magazines and to apply discounts based on member types.
-- **Inheritance and Polymorphism**: Different types of members (students and general) and items (books and magazines) are implemented using these OOP concepts.
-
 ## Features
 
 1. **Item Borrowing**: 
